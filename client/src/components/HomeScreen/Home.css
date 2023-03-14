@@ -1,0 +1,43 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.main__offset{
+    display: flex;
+    flex-direction: column;
+    max-width: 1620px;
+    width: 100%;
+    margin: 0 auto;
+    flex: 1 1 auto;
+    padding: 32px 0px;
+}
+
+
+.home_container{
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding: 32px 16px;
+    /* position: relative; */
+}
+
+
+.section_bestSellers__home{
+    display: flex;
+    width: 100%;
+    margin-top: 48px;
+    background-color: #f1f2f7;
+}
+
+.bg-dark{
+    transition: .3s;
+}
+
+.bg-white{
+    transition: .3s;
+}
+
+

@@ -1,0 +1,26 @@
+.link{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: #1c4af1;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+    cursor: pointer;
+}
+
+li:hover{
+    color: #1c4af1;
+}
+
+
+.active_link{
+    color: #1c4af1;
+}

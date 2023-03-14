@@ -1,0 +1,30 @@
+.news_block{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.news_block_item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    min-width: 100%;
+}
+
+.news_card{
+    display: flex;
+    margin-right: 15px;
+}
+
+
+/* 
+@media(max-width: 1280px){
+    .news_block{
+        flex-wrap: wrap;
+    }
+    .news_block_item{
+        flex-wrap: wrap;
+    }
+
+
+} */

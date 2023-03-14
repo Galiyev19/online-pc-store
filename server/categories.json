@@ -1,0 +1,64 @@
+[
+  {
+    "categoryName": "Компьютеры",
+    "engVersion": "computers",
+    "icon": "https://cdn-icons-png.flaticon.com/512/5804/5804383.png",
+    "id": 1
+  },
+  {
+    "categoryName": "Комплектующие для ПК",
+    "engVersion": "pc-parts",
+    "icon": "https://cdn-icons-png.flaticon.com/512/32/32791.png",
+    "id": 2,
+    "subCategories": [
+      {
+        "id": 1,
+        "name": "Оперативная память",
+        "engVersion": "RAM"
+      },
+      {
+        "id": 2,
+        "name": "Видеокарты",
+        "engVersion": "GPU"
+      },
+      {
+        "id": 3,
+        "name": "Процессоры",
+        "engVersion": "CPU"
+      },
+      {
+        "id": 4,
+        "name": "Накопители",
+        "engVersion": "SSD"
+      },
+      {
+        "id": 5,
+        "name": "Корпуса",
+        "engVersion": "cases"
+      },
+      {
+        "id": 6,
+        "name": "Материнские платы",
+        "engVersion": "motherboards"
+      },
+      {
+        "id": 7,
+        "name": "Блок питания ",
+        "engVersion": "power-supplies"
+      }
+    ]
+  },
+  {
+    "categoryName": "Ноутбуки",
+    "engVersion": "laptops",
+    "icon": "https://cdn-icons-png.flaticon.com/512/329/329739.png",
+    "id": 3
+  },
+  {
+    "categoryName": "Мониторы",
+    "engVersion": "monitors",
+    "icon": "https://cdn-icons-png.flaticon.com/512/7910/7910813.png",
+    "id": 4
+  }
+
+]

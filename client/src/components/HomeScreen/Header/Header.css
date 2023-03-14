@@ -1,0 +1,169 @@
+.logo__img{
+    height: 35px;
+    width: 40px;
+}
+
+.icon{
+    color: white;
+    margin-right:12px;
+    margin-left: 0px;
+    font-size: 24px;
+}
+
+.dropdown__btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: brown;
+    padding: 6px 8px;
+    border-radius: 12px;
+    color: white;
+    outline: none;
+    border-width: 0px;
+}
+
+
+.user_img_block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    margin: 0 15px;
+}
+
+.img_user{
+    height: 72px;
+    width: 72px;
+    border-radius: 50%;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.dropdown_block{
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    padding: 0 20px;
+}
+
+.nav_left{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.catalog_btn{
+    display: flex;
+    flex-direction: row;
+    width: 25%;
+    margin-right: 10px;
+}
+
+.bg_icons{
+    cursor: pointer;
+    color: white;
+    font-size: 24px;
+    margin: 0px 8px;
+    text-align: center;
+    opacity: 1;
+    height: 36px;
+    width: 100%;
+    border-radius: 16px;
+    padding: 4px 6px;
+}
+
+.bg_icons:hover{
+    background-color: gray;
+}
+
+.header_leftSide_block{
+    width: 100%;
+}
+
+.header_icon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+}
+
+.mobile_header_icon{
+    display: none;
+}
+
+
+.header_store_icons{
+    display: none;
+}
+
+.mobile_user_info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 8px;
+}
+
+
+.header_user_dropdown{
+    display: flex;
+    align-items: center;
+    margin: 8px;
+}
+
+
+@media(max-width: 1200px){
+    .header_icon{
+        display: none;
+    }
+    .mobile_header_icon{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .img_user{
+        height: 48px;
+        width: 48px;
+    }
+}
+
+
+
+@media(max-width: 992px){
+    .logo__img{
+        display: none;
+    }
+
+    .nav_left{
+        display: none;
+    }
+
+    .catalog_btn{
+        display: flex;
+        align-items: flex-start;
+        margin: 12px 0px;
+    }
+
+    .header_user_dropdown{
+        display: none;
+    }
+
+    /* .header_leftSide_block{
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+    } */
+
+    .header_store_icons{
+        display: flex;
+    }
+    
+    .mobile_user_info{
+        width: 75%;
+    }
+    
+
+}

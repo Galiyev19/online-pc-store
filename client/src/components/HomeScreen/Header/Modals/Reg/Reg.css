@@ -1,0 +1,12 @@
+.hide{
+    display: none;
+}
+
+.show_text{
+    display: block;
+    color: red;
+    font-size: 12px;
+    line-height: 8px;
+    margin: 4px 0px 8px;
+    margin-left: 4px;
+}

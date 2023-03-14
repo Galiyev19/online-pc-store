@@ -1,0 +1,20 @@
+.items-in-cart{
+    position: relative;
+    top: -46px;
+    right: -20px;
+    background-color: tomato;
+    z-index: 2;
+    height: 20px;
+    width: 20px;
+    font-size: 15px;
+    margin-left: 2px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+@media (max-width: 992px) {
+    .items-in-cart{
+        top: -12px;
+        right: 6px;
+    }
+}

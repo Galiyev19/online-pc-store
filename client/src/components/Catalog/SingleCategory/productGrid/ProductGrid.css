@@ -1,0 +1,32 @@
+.grid-template-list{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr)
+}
+
+.space-card-block{
+    margin-bottom: 20px;
+    padding: 16px;
+}
+
+.pad-16{
+    padding: 16px;
+}
+
+.link{
+    text-decoration: none;
+}
+
+
+@media(max-width: 1280px){
+    .grid-template-list{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+
+@media(max-width: 576px){
+    .grid-template-list{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+

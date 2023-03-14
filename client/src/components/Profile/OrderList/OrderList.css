@@ -1,0 +1,28 @@
+.orderList_card_info_block{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+    padding: 8px;
+}
+
+.orderList_card_info_block_item{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    .orderList_card_info_block{
+        flex-direction: column;
+    }
+   
+}
+
+@media (max-width: 576px) {
+    .orderList_card_info_block_item{
+        flex-direction: column;
+    }
+}

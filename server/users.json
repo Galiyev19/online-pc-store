@@ -1,0 +1,240 @@
+[
+  {
+    "id": "1",
+    "username": "Alex",
+    "email": "alex@gmail.com",
+    "password": "123456789"
+  },
+  {
+    "id": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQwNTU5YzU5MDgzZDc3YWI2NDUxOThiNTIxZmM4ZmVmZmVlZmJkNjIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcmVhY3QtZmlyZWJhc2UtYXV0aC1jNzQ1YyIsImF1ZCI6InJlYWN0LWZpcmViYXNlLWF1dGgtYzc0NWMiLCJhdXRoX3RpbWUiOjE2NzQyMjk0MTYsInVzZXJfaWQiOiJiQkZrblpFNkdEV20wSDJyUEJiWEdJU1R2bTgyIiwic3ViIjoiYkJGa25aRTZHRFdtMEgyclBCYlhHSVNUdm04MiIsImlhdCI6MTY3NDIyOTQxNiwiZXhwIjoxNjc0MjMzMDE2LCJlbWFpbCI6ImRlbmlzLm0ucGNzcGFjZUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiZGVuaXMubS5wY3NwYWNlQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.h-Q0KD8909PhZKqtIb_LaScDoafpovPV3OruyT6ZCbpCVrcOiZXkKjfVtujwm57_jw4kTCfCfFudHJJQSlsQ1IDKYSIBoZsUt39ZRY2P1zed7eEdxHniZsLTtSv70kP4wDra1nSeCe1T8uo8Uc9Ir10zG1at55vYT0ZkwAOyvmoigHWNmDQuna4V84PQbtCGs-pwx3-LB_tl_y9-7FShk4Qka6LgBqqGIFZJ_KGQ2vOnWtiWO3iPir-WOUT9P5Cc_j-n4xGL_4BVf4UAnMBpazgcj-PoJ-W8zrpK5Hy_5aFW9fErh_abQiKNJBWOx8VCcggNwY4bQ72yYGfQNv9vXA",
+    "username": "Denis",
+    "email": "denis.m.pcspace@gmail.com",
+    "password": "12345678",
+    "orders": [
+      {
+        "id": 1674229466038,
+        "token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQwNTU5YzU5MDgzZDc3YWI2NDUxOThiNTIxZmM4ZmVmZmVlZmJkNjIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcmVhY3QtZmlyZWJhc2UtYXV0aC1jNzQ1YyIsImF1ZCI6InJlYWN0LWZpcmViYXNlLWF1dGgtYzc0NWMiLCJhdXRoX3RpbWUiOjE2NzQyMjk0MTYsInVzZXJfaWQiOiJiQkZrblpFNkdEV20wSDJyUEJiWEdJU1R2bTgyIiwic3ViIjoiYkJGa25aRTZHRFdtMEgyclBCYlhHSVNUdm04MiIsImlhdCI6MTY3NDIyOTQxNiwiZXhwIjoxNjc0MjMzMDE2LCJlbWFpbCI6ImRlbmlzLm0ucGNzcGFjZUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiZGVuaXMubS5wY3NwYWNlQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.h-Q0KD8909PhZKqtIb_LaScDoafpovPV3OruyT6ZCbpCVrcOiZXkKjfVtujwm57_jw4kTCfCfFudHJJQSlsQ1IDKYSIBoZsUt39ZRY2P1zed7eEdxHniZsLTtSv70kP4wDra1nSeCe1T8uo8Uc9Ir10zG1at55vYT0ZkwAOyvmoigHWNmDQuna4V84PQbtCGs-pwx3-LB_tl_y9-7FShk4Qka6LgBqqGIFZJ_KGQ2vOnWtiWO3iPir-WOUT9P5Cc_j-n4xGL_4BVf4UAnMBpazgcj-PoJ-W8zrpK5Hy_5aFW9fErh_abQiKNJBWOx8VCcggNwY4bQ72yYGfQNv9vXA",
+        "orderDate": "20.01.2023, 21:44:26",
+        "fullName": "Денис",
+        "phone": "+77087777412",
+        "orders": [
+          {
+            "id": 36,
+            "product": {
+              "CPU": "Intel Core i9-13900K",
+              "brand": "Intel",
+              "img": "https://forcecom.kz/upload/iblock/85f/nhqkzk4wg1iqicdp2xzw8u7n7a10bna6.jpg",
+              "price": 333890,
+              "id": 36,
+              "socket": "LGA 1700",
+              "category": "pc-parts",
+              "subCategory": "CPU",
+              "title": "Процессор Intel Core i9-13900K [LGA 1700, 24 x 3 ГГц, TDP 125 Вт, OEM]"
+            },
+            "count": 1,
+            "total": 333890
+          },
+          {
+            "id": 72,
+            "product": {
+              "model": "ELITE SHARK CA300T Wh",
+              "brand": "Sharkoon",
+              "id": 72,
+              "img": "https://forcecom.kz/upload/iblock/eb5/6weewg523inwose750kawl15gz0qusgk.jpg",
+              "price": 91350,
+              "title": "Корпус Sharkoon ELITE SHARK CA300T Wh, Midi tower",
+              "category": "pc-parts",
+              "subCategory": "cases"
+            },
+            "count": 1,
+            "total": 91350
+          }
+        ],
+        "deliveryMethod": "Самовывоз из магазина",
+        "payMethod": "Наличными при полученииe",
+        "status": "В обработке",
+        "addressDelivery": ""
+      },
+      {
+        "id": 1674230604627,
+        "token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQwNTU5YzU5MDgzZDc3YWI2NDUxOThiNTIxZmM4ZmVmZmVlZmJkNjIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcmVhY3QtZmlyZWJhc2UtYXV0aC1jNzQ1YyIsImF1ZCI6InJlYWN0LWZpcmViYXNlLWF1dGgtYzc0NWMiLCJhdXRoX3RpbWUiOjE2NzQyMjk0MTYsInVzZXJfaWQiOiJiQkZrblpFNkdEV20wSDJyUEJiWEdJU1R2bTgyIiwic3ViIjoiYkJGa25aRTZHRFdtMEgyclBCYlhHSVNUdm04MiIsImlhdCI6MTY3NDIyOTQxNiwiZXhwIjoxNjc0MjMzMDE2LCJlbWFpbCI6ImRlbmlzLm0ucGNzcGFjZUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiZGVuaXMubS5wY3NwYWNlQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.h-Q0KD8909PhZKqtIb_LaScDoafpovPV3OruyT6ZCbpCVrcOiZXkKjfVtujwm57_jw4kTCfCfFudHJJQSlsQ1IDKYSIBoZsUt39ZRY2P1zed7eEdxHniZsLTtSv70kP4wDra1nSeCe1T8uo8Uc9Ir10zG1at55vYT0ZkwAOyvmoigHWNmDQuna4V84PQbtCGs-pwx3-LB_tl_y9-7FShk4Qka6LgBqqGIFZJ_KGQ2vOnWtiWO3iPir-WOUT9P5Cc_j-n4xGL_4BVf4UAnMBpazgcj-PoJ-W8zrpK5Hy_5aFW9fErh_abQiKNJBWOx8VCcggNwY4bQ72yYGfQNv9vXA",
+        "orderDate": "20.01.2023, 22:03:24",
+        "fullName": "Денис",
+        "phone": "+77024568916",
+        "orders": [
+          {
+            "id": 1,
+            "product": {
+              "CPU": "Intel Core i7-12700KF (2.70 / 5.00 GHz)",
+              "GPU": "Palit GamingPro GeForce RTX 3070 8Gb",
+              "RAM": "G.Skill Trident Z RGB 16Gb DDR4 3600MHz (2x8Gb)",
+              "SSD": "1000Gb TeamGroup T-Force Z44L",
+              "brand": "Gigabyte",
+              "id": 1,
+              "img": "https://starlinecomp.kz/thumb/2/-ED-MjK1gcw6bfR_rieq_Q/750r750/d/dsc00848.png",
+              "model": "ИГРОВОЙ I7-12700KF+RTX 3070",
+              "motherBoard": "Gigabyte Z690 UD D4 (LGA 1700)",
+              "price": 945000,
+              "title": "ИГРОВОЙ I7-12700KF+RTX 3070",
+              "category": "computers"
+            },
+            "count": 1,
+            "total": 945000
+          }
+        ],
+        "deliveryMethod": "Доставка курьером",
+        "payMethod": "Оплата картой",
+        "status": "В обработке",
+        "addressDelivery": "улица Достык 5, кв 14"
+      },
+      {
+        "id": 1674287698163,
+        "token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQwNTU5YzU5MDgzZDc3YWI2NDUxOThiNTIxZmM4ZmVmZmVlZmJkNjIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcmVhY3QtZmlyZWJhc2UtYXV0aC1jNzQ1YyIsImF1ZCI6InJlYWN0LWZpcmViYXNlLWF1dGgtYzc0NWMiLCJhdXRoX3RpbWUiOjE2NzQyMjk0MTYsInVzZXJfaWQiOiJiQkZrblpFNkdEV20wSDJyUEJiWEdJU1R2bTgyIiwic3ViIjoiYkJGa25aRTZHRFdtMEgyclBCYlhHSVNUdm04MiIsImlhdCI6MTY3NDIyOTQxNiwiZXhwIjoxNjc0MjMzMDE2LCJlbWFpbCI6ImRlbmlzLm0ucGNzcGFjZUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiZGVuaXMubS5wY3NwYWNlQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.h-Q0KD8909PhZKqtIb_LaScDoafpovPV3OruyT6ZCbpCVrcOiZXkKjfVtujwm57_jw4kTCfCfFudHJJQSlsQ1IDKYSIBoZsUt39ZRY2P1zed7eEdxHniZsLTtSv70kP4wDra1nSeCe1T8uo8Uc9Ir10zG1at55vYT0ZkwAOyvmoigHWNmDQuna4V84PQbtCGs-pwx3-LB_tl_y9-7FShk4Qka6LgBqqGIFZJ_KGQ2vOnWtiWO3iPir-WOUT9P5Cc_j-n4xGL_4BVf4UAnMBpazgcj-PoJ-W8zrpK5Hy_5aFW9fErh_abQiKNJBWOx8VCcggNwY4bQ72yYGfQNv9vXA",
+        "orderDate": "21.01.2023, 13:54:58",
+        "fullName": "Галиев Алишер",
+        "phone": "+77054568916",
+        "orders": [
+          {
+            "id": 26,
+            "product": {
+              "brand": "Team Group",
+              "subCategory": "RAM",
+              "id": 26,
+              "img": "https://forcecom.kz/upload/iblock/171/1713cf2e28f95e75033354e2b84e5cef.jpg",
+              "price": 110350,
+              "size": "64 GB",
+              "title": "Оперативная память Team Group DELTA RGB TF4D464G3200HC16FDC01 [64 ГБ DDR 4, 3200 МГц, 25600 Мб/сек, 1.35 В, подсветка, KIT]",
+              "type": "DDR 4",
+              "category": "pc-parts"
+            },
+            "count": 1,
+            "total": 110350
+          }
+        ],
+        "deliveryMethod": "Доставка курьером",
+        "payMethod": "Оплата картой",
+        "status": "В обработке",
+        "addressDelivery": "улица Вязов 1567"
+      },
+      {
+        "id": 1674287824067,
+        "token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQwNTU5YzU5MDgzZDc3YWI2NDUxOThiNTIxZmM4ZmVmZmVlZmJkNjIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcmVhY3QtZmlyZWJhc2UtYXV0aC1jNzQ1YyIsImF1ZCI6InJlYWN0LWZpcmViYXNlLWF1dGgtYzc0NWMiLCJhdXRoX3RpbWUiOjE2NzQyMjk0MTYsInVzZXJfaWQiOiJiQkZrblpFNkdEV20wSDJyUEJiWEdJU1R2bTgyIiwic3ViIjoiYkJGa25aRTZHRFdtMEgyclBCYlhHSVNUdm04MiIsImlhdCI6MTY3NDIyOTQxNiwiZXhwIjoxNjc0MjMzMDE2LCJlbWFpbCI6ImRlbmlzLm0ucGNzcGFjZUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiZGVuaXMubS5wY3NwYWNlQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.h-Q0KD8909PhZKqtIb_LaScDoafpovPV3OruyT6ZCbpCVrcOiZXkKjfVtujwm57_jw4kTCfCfFudHJJQSlsQ1IDKYSIBoZsUt39ZRY2P1zed7eEdxHniZsLTtSv70kP4wDra1nSeCe1T8uo8Uc9Ir10zG1at55vYT0ZkwAOyvmoigHWNmDQuna4V84PQbtCGs-pwx3-LB_tl_y9-7FShk4Qka6LgBqqGIFZJ_KGQ2vOnWtiWO3iPir-WOUT9P5Cc_j-n4xGL_4BVf4UAnMBpazgcj-PoJ-W8zrpK5Hy_5aFW9fErh_abQiKNJBWOx8VCcggNwY4bQ72yYGfQNv9vXA",
+        "orderDate": "21.01.2023, 13:57:04",
+        "fullName": "asdasd",
+        "phone": "+77056543263",
+        "orders": [
+          {
+            "id": 82,
+            "product": {
+              "model": "MPG Z590 Gaming Force",
+              "brand": "MSI",
+              "id": 82,
+              "img": "https://shop.kz/upload/iblock/e7e/161324_2.jpg",
+              "price": 149200,
+              "title": "Материнская плата MSI MPG Z590 Gaming Force, LGA1200",
+              "category": "pc-parts",
+              "subCategory": "motherboards"
+            },
+            "count": 1,
+            "total": 149200
+          }
+        ],
+        "deliveryMethod": "Самовывоз из магазина",
+        "payMethod": "Kaspi QR",
+        "status": "В обработке",
+        "addressDelivery": ""
+      },
+      {
+        "id": 1674287866005,
+        "token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQwNTU5YzU5MDgzZDc3YWI2NDUxOThiNTIxZmM4ZmVmZmVlZmJkNjIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcmVhY3QtZmlyZWJhc2UtYXV0aC1jNzQ1YyIsImF1ZCI6InJlYWN0LWZpcmViYXNlLWF1dGgtYzc0NWMiLCJhdXRoX3RpbWUiOjE2NzQyMjk0MTYsInVzZXJfaWQiOiJiQkZrblpFNkdEV20wSDJyUEJiWEdJU1R2bTgyIiwic3ViIjoiYkJGa25aRTZHRFdtMEgyclBCYlhHSVNUdm04MiIsImlhdCI6MTY3NDIyOTQxNiwiZXhwIjoxNjc0MjMzMDE2LCJlbWFpbCI6ImRlbmlzLm0ucGNzcGFjZUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiZGVuaXMubS5wY3NwYWNlQGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.h-Q0KD8909PhZKqtIb_LaScDoafpovPV3OruyT6ZCbpCVrcOiZXkKjfVtujwm57_jw4kTCfCfFudHJJQSlsQ1IDKYSIBoZsUt39ZRY2P1zed7eEdxHniZsLTtSv70kP4wDra1nSeCe1T8uo8Uc9Ir10zG1at55vYT0ZkwAOyvmoigHWNmDQuna4V84PQbtCGs-pwx3-LB_tl_y9-7FShk4Qka6LgBqqGIFZJ_KGQ2vOnWtiWO3iPir-WOUT9P5Cc_j-n4xGL_4BVf4UAnMBpazgcj-PoJ-W8zrpK5Hy_5aFW9fErh_abQiKNJBWOx8VCcggNwY4bQ72yYGfQNv9vXA",
+        "orderDate": "21.01.2023, 13:57:46",
+        "fullName": "asdad",
+        "phone": "+77056978916",
+        "orders": [
+          {
+            "id": 36,
+            "product": {
+              "CPU": "Intel Core i9-13900K",
+              "brand": "Intel",
+              "img": "https://forcecom.kz/upload/iblock/85f/nhqkzk4wg1iqicdp2xzw8u7n7a10bna6.jpg",
+              "price": 333890,
+              "id": 36,
+              "socket": "LGA 1700",
+              "category": "pc-parts",
+              "subCategory": "CPU",
+              "title": "Процессор Intel Core i9-13900K [LGA 1700, 24 x 3 ГГц, TDP 125 Вт, OEM]"
+            },
+            "count": 1,
+            "total": 333890
+          }
+        ],
+        "deliveryMethod": "Самовывоз из магазина",
+        "payMethod": "Наличными при полученииe",
+        "status": "В обработке",
+        "addressDelivery": ""
+      }
+    ]
+  },
+  {
+    "id": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQwNTU5YzU5MDgzZDc3YWI2NDUxOThiNTIxZmM4ZmVmZmVlZmJkNjIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcmVhY3QtZmlyZWJhc2UtYXV0aC1jNzQ1YyIsImF1ZCI6InJlYWN0LWZpcmViYXNlLWF1dGgtYzc0NWMiLCJhdXRoX3RpbWUiOjE2NzQyOTI0NDAsInVzZXJfaWQiOiJod2h0NzlsMVNLVktnTW54VHRYN0lqc25pQmgxIiwic3ViIjoiaHdodDc5bDFTS1ZLZ01ueFR0WDdJanNuaUJoMSIsImlhdCI6MTY3NDI5MjQ0MCwiZXhwIjoxNjc0Mjk2MDQwLCJlbWFpbCI6ImFzZGFAY29tLmt6IiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbImFzZGFAY29tLmt6Il19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.cmibmSuFKNKu457vJr8fZBQjaNcoSXnPZTPO8itFU8bE8PO5ZnuRfaSGwhD8AIVCPz9jGxnIY7BEr4jIoPGhTpZ2RnD8cFD8q1gLL6eXA4N5jPIa1znTmIO8OXw1m6tn6TnoTN3qXlTt_pQ1h6SWUlE4vUYLjcmnLlXFZWc9Koj2NvkYOog09KMfCqxQu1odDKEarAVLoiUMKVlFyQ2SI4JhhZZZIYShp8ADBYsiYqF60K3CgU3VxLS1sv0Gd41A2nfhxYPDwCp3h_gNCe-mPNWred7mfMbhvqt8JrSAyABtu6-TdhKFwXgFlZF0OVy6jF6PNbPfcM4XEFp68-d_Xw",
+    "username": "asd",
+    "email": "asda@com.kz",
+    "password": "qwerty12345"
+  },
+  {
+    "id": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQwNTU5YzU5MDgzZDc3YWI2NDUxOThiNTIxZmM4ZmVmZmVlZmJkNjIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcmVhY3QtZmlyZWJhc2UtYXV0aC1jNzQ1YyIsImF1ZCI6InJlYWN0LWZpcmViYXNlLWF1dGgtYzc0NWMiLCJhdXRoX3RpbWUiOjE2NzQzMDM2NjcsInVzZXJfaWQiOiJzeEdjd05KUkF6Tk8zdmtkNVo4T3BnTVpySUczIiwic3ViIjoic3hHY3dOSlJBek5PM3ZrZDVaOE9wZ01acklHMyIsImlhdCI6MTY3NDMwMzY2NywiZXhwIjoxNjc0MzA3MjY3LCJlbWFpbCI6ImFsZXhAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbImFsZXhAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.dNh7fq28r0pfYG4z8Bh3C6BJAEhOGCPcEYRkGZF3QtF6yzzPg8jEjyNQVty7m6883hf6igvUPGkmuXQnQRpLonY3hDDWl-opasMuJDwOzS-_26VoaHGOWflsA47ImsrKcV1xqxU8J_T1Tf9t_lv8tdUphjpsAz4IAJ0MHTpLx2hxrjIna6UFMXpzBKhgK5e_Yu_9EteAZaWN7hZmmDjhwqq5eUVVPJm-yZBWJRepDQy1eZi-4v3BNIDxvJnMaDqcHQV7ip1yOHlolMbahoN8U-7UatmDKAekEMjqKCEAlX5SnutK4vc1dQOAWP0FISEWxp0ASs7cE1eJCpgTW4DOow",
+    "username": "Max",
+    "email": "alex@gmail.com",
+    "password": "1234456456",
+    "orders": [
+      {
+        "id": 1674303762627,
+        "token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImQwNTU5YzU5MDgzZDc3YWI2NDUxOThiNTIxZmM4ZmVmZmVlZmJkNjIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcmVhY3QtZmlyZWJhc2UtYXV0aC1jNzQ1YyIsImF1ZCI6InJlYWN0LWZpcmViYXNlLWF1dGgtYzc0NWMiLCJhdXRoX3RpbWUiOjE2NzQzMDM2NjcsInVzZXJfaWQiOiJzeEdjd05KUkF6Tk8zdmtkNVo4T3BnTVpySUczIiwic3ViIjoic3hHY3dOSlJBek5PM3ZrZDVaOE9wZ01acklHMyIsImlhdCI6MTY3NDMwMzY2NywiZXhwIjoxNjc0MzA3MjY3LCJlbWFpbCI6ImFsZXhAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImVtYWlsIjpbImFsZXhAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.dNh7fq28r0pfYG4z8Bh3C6BJAEhOGCPcEYRkGZF3QtF6yzzPg8jEjyNQVty7m6883hf6igvUPGkmuXQnQRpLonY3hDDWl-opasMuJDwOzS-_26VoaHGOWflsA47ImsrKcV1xqxU8J_T1Tf9t_lv8tdUphjpsAz4IAJ0MHTpLx2hxrjIna6UFMXpzBKhgK5e_Yu_9EteAZaWN7hZmmDjhwqq5eUVVPJm-yZBWJRepDQy1eZi-4v3BNIDxvJnMaDqcHQV7ip1yOHlolMbahoN8U-7UatmDKAekEMjqKCEAlX5SnutK4vc1dQOAWP0FISEWxp0ASs7cE1eJCpgTW4DOow",
+        "orderDate": "21.01.2023, 18:22:42",
+        "fullName": "Галиев Алишер",
+        "phone": "+77087777412",
+        "orders": [
+          {
+            "id": 54,
+            "product": {
+              "model": "Purple Surveillance [WD63PURZ]",
+              "brand": "Western Digital",
+              "img": "https://forcecom.kz/upload/iblock/3e8/3e855dc19fe8e870b6487ca4d7e06434.jpg",
+              "price": 81790,
+              "id": 54,
+              "size": "6 ТБ",
+              "category": "pc-parts",
+              "subCategory": "SSD",
+              "title": "Жесткий диск WD Purple Surveillance [WD63PURZ] [6 ТБ, 3.5\", SATA III, 5640 об/мин, 256 МБ кэш, для систем видеонаблюдения]"
+            },
+            "count": 1,
+            "total": 81790
+          },
+          {
+            "id": 1,
+            "product": {
+              "CPU": "Intel Core i7-12700KF (2.70 / 5.00 GHz)",
+              "GPU": "Palit GamingPro GeForce RTX 3070 8Gb",
+              "RAM": "G.Skill Trident Z RGB 16Gb DDR4 3600MHz (2x8Gb)",
+              "SSD": "1000Gb TeamGroup T-Force Z44L",
+              "brand": "Gigabyte",
+              "id": 1,
+              "img": "https://starlinecomp.kz/thumb/2/-ED-MjK1gcw6bfR_rieq_Q/750r750/d/dsc00848.png",
+              "model": "ИГРОВОЙ I7-12700KF+RTX 3070",
+              "motherBoard": "Gigabyte Z690 UD D4 (LGA 1700)",
+              "price": 945000,
+              "title": "ИГРОВОЙ I7-12700KF+RTX 3070",
+              "category": "computers"
+            },
+            "count": 1,
+            "total": 945000
+          }
+        ],
+        "deliveryMethod": "Доставка курьером",
+        "payMethod": "Kaspi QR",
+        "status": "В обработке",
+        "addressDelivery": "фывфывфыв"
+      }
+    ]
+  }
+]

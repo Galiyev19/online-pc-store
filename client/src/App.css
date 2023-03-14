@@ -1,0 +1,111 @@
+#root{
+  min-height: 100%;
+}
+
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+html,
+body {
+  margin: 0 auto;
+  min-height: 100%;
+}
+
+.light_mode{
+  color: black;
+}
+
+.dark_mode{
+  color: white;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+
+.text_color{
+  color: #2f4287;
+}
+
+
+
+
+.offset {
+  display: flex;
+  flex-direction: column;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  flex: 1 1 auto;
+  padding: 32px 0px;
+}
+
+
+.home_catalog_list_test{
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 24px; 
+  margin-bottom: 16px;
+}
+
+.main_text_p{
+  font-family: 'Cabin', sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 14px; 
+  margin-bottom: 16px;
+}
+
+.main_text_h2{
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+  font-style: normal;
+  line-height: 24px;  
+}
+
+.main_text_h4{
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  font-style: bold; 
+  line-height: 18px; 
+}
+
+
+.main_text_h5{
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 20px; 
+}
+
+.main_text{
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  font-style: normal; 
+  line-height: 16px; 
+}
+
+.main_text_span{
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
+  font-size: 16x;
+  font-style: normal; 
+  line-height: 14px; 
+}
+
+
+@media(max-width: 1620px){
+  .offset{
+    max-width: 1400px;
+  }
+}

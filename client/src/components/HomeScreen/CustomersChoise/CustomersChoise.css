@@ -1,0 +1,118 @@
+.customers_choise_block{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    overflow-x: hidden;
+    padding: 12px 6px;
+}
+
+.card_block {
+    margin: 0px 2px;
+    cursor:pointer;   
+    transition-property: transform;
+    height: 100%;
+    transition: .3s;
+    color: black;
+    padding: 8px 12px;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.carousel{
+    cursor: pointer;
+}
+
+.card_block:hover {
+    -webkit-box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+/* .card:hover .card__footer{
+    max-height: 500px;
+    overflow: visible;
+} */
+
+.card__footer{
+    z-index: 1;
+    width: 100%;
+    max-height: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 8px 12px;
+    margin-bottom: 24px;
+}
+
+
+.btn-hover {
+    text-align: center;
+    width: 50%;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    padding: 8px 4px;
+}
+
+
+.btn-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:focus {
+    outline: none;
+}
+
+.btn-hover.color-1 {
+    background-image: linear-gradient(to right, #25aae1, #40e495, #30dd8a, #2bb673);
+    box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+}
+
+.icon_fav_red{
+    color: red;
+    height: 32px;
+    width: 32px;
+    margin-left: 24px;
+    transition: .3s;
+}
+
+.icon_fav{
+    color: rgb(146, 142, 142);
+    height: 32px;
+    width: 32px;
+    margin-left: 24px;
+    transition: .3s;
+}
+
+.icon_fav:hover{
+    color: rgb(243, 51, 37);
+}
+
+li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@media(max-width: 992px){
+    .card__footer{
+        overflow: visible;
+    }
+}

@@ -1,0 +1,9 @@
+.fav_card_block{
+    margin: 0px 2px;
+    cursor:pointer;
+    transition-property: transform;
+    transition: .3s;
+    color: black;
+    padding: 8px 12px;
+    margin-bottom: 8px;
+}

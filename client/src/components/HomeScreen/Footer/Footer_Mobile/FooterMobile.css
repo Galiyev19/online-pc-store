@@ -1,0 +1,31 @@
+.tab_mobile{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    z-index: 50;
+    background-color: white;
+    border-top: solid 1px gray;
+    display: none;
+}
+
+
+.mobile_menu_tab_item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; 
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+@media(max-width: 1024px){
+    .tab_mobile{
+        display: flex;
+    }
+}

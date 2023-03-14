@@ -1,0 +1,32 @@
+.slide_block{
+    height: 500px;
+}
+
+
+.slider_img{
+   display: flex;
+   height: 500px;
+   width: 100%;
+}
+
+
+
+
+@media(max-width:768px ){
+   .slider_img{
+    height: 300px;
+   }
+
+   .slider_text_block{
+    display: none;
+   }
+}
+
+@media(max-width:576px ){
+   .slider_img{
+      height: 240px;
+     }
+}
+
+
+
